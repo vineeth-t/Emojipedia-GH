@@ -1,0 +1,48 @@
+.App {
+  font-family: "Cinzel", serif;
+  text-align: center;
+  background-color: #adefd1ff;
+}
+body {
+  max-width: 600px;
+  margin: auto;
+  background-size: 100%;
+}
+.userInput {
+  padding: 0.25rem;
+  width: 15rem;
+  margin-bottom: 1rem;
+}
+.emoji {
+  font-size: 1.5rem;
+  margin: 1rem;
+  cursor: pointer;
+  display: inline-block;
+  width: 5rem;
+  height: 2rem;
+}
+.outputDiv {
+  margin-bottom: 1rem;
+}
+
+.navigation {
+  padding: 1rem 1rem 0rem 1rem;
+  background-color: black;
+  color: white;
+  max-width: auto;
+  padding-bottom: 0.25rem;
+}
+.navigation .nav-brand {
+  font-weight: bold;
+}
+.footer {
+  background-color: black;
+  padding: 1rem 1rem;
+  text-align: center;
+  color: white;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+.footer-container {
+  text-align: center;
+}
